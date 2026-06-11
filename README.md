@@ -1,16 +1,145 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gagan%20G&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20in%20Progress&descSize=18&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+</div>
 
-<!--
-**gagang135/gagang135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=gagang135">
+    <img src="https://komarev.com/ghpvc/?username=gagang135&label=Profile%20Views&color=2c5364&style=flat-square" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-2c5364?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-203a43?style=flat-square&logo=java&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Computer Science Engineering student deep in **Java Full Stack Development** training. I care about writing clean, structured code and understanding systems from the ground up — not just making things work, but understanding *why* they work.
+
+Currently building a solid foundation in backend architecture, relational databases, and web technologies, with the goal of developing real, scalable applications.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Core Languages**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+**Web Technologies**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Database & Connectivity**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gagang135&show_icons=true&theme=dark&bg_color=0d1117&border_color=2c5364&icon_color=a0c4ff&title_color=ffffff&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagang135&layout=compact&theme=dark&bg_color=0d1117&border_color=2c5364&title_color=ffffff&text_color=c9d1d9&hide_border=false&langs_count=8" height="165"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gagang135&theme=dark&background=0d1117&border=2c5364&stroke=2c5364&ring=a0c4ff&fire=a0c4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a0c4ff&sideLabels=c9d1d9&dates=6e7681" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gagang135&theme=react-dark&bg_color=0d1117&color=a0c4ff&line=2c5364&point=ffffff&area=true&area_color=203a43&hide_border=false" width="95%"/>
+</div>
+
+---
+
+## Currently Learning
+
+```
+Java Full Stack Roadmap
+│
+├── Core Java
+│   ├── OOP Concepts
+│   ├── Collections Framework
+│   ├── Exception Handling
+│   └── Multithreading (upcoming)
+│
+├── Web Technologies
+│   ├── HTML5 — structure
+│   ├── CSS3 — styling & layout
+│   └── JavaScript — interactivity
+│
+├── Database
+│   ├── SQL & Relational Design
+│   ├── MySQL
+│   └── JDBC — Java to DB bridge
+│
+└── Next Up
+    ├── Spring Boot
+    ├── REST APIs
+    └── Hibernate / JPA
+```
+
+---
+
+## Areas of Interest
+
+| Domain | What Excites Me |
+|---|---|
+| Backend Development | Building the logic that powers applications |
+| Database Design | Structuring data relationships efficiently |
+| Full Stack Apps | Connecting frontend and backend end-to-end |
+
+---
+
+## Let's Collaborate
+
+Open to:
+- Java and database-focused projects
+- Learning-oriented and academic projects
+- Beginner-friendly open source contributions
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-gagangiri463%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagangiri463@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%40i_m_._gagan_vaishnava-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_m_._gagan_vaishnava/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-gagangiri463-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gagangiri463)
+
+</div>
+
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
