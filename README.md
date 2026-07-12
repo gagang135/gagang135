@@ -133,7 +133,9 @@ Open to:
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%40i_m_._gagan_vaishnava-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_m_._gagan_vaishnava/)
 &nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-gagangiri463-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gagangiri463)
+[![HackerRank](https://img.shields.io/badge/HackerRank-gagangiri463-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gagangiri463) 
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Gagan%20G-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://gagangportfolio.netlify.app/)
 
 </div>
 
