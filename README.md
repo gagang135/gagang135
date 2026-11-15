@@ -11,8 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gagangiri463@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gagangiri463)
 
-<img src="https://komarev.com/ghpvc/?username=gagang135&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
-
 </div>
 
 ---
