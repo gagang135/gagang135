@@ -1,147 +1,245 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gagan%20G&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20in%20Progress&descSize=18&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%"/>
-</div>
+ <div align="center">
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=gagang135">
-    <img src="https://komarev.com/ghpvc/?username=gagang135&label=Profile%20Views&color=2c5364&style=flat-square" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-2c5364?style=flat-square&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack-203a43?style=flat-square&logo=java&logoColor=white" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,45:142B50,100:2563EB&height=210&section=header&text=Gagan%20G&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20FULL%20STACK&descSize=17&descAlignY=60&descColor=BFDBFE&animation=fadeIn" width="100%"/>
 
-<br/>
+### Java Full Stack Developer | Angular | Spring Boot
 
----
+**Frontend Engineering · Backend Development · Database Systems · AI Integration**
 
-## About
+[![GitHub](https://img.shields.io/badge/GitHub-gagang135-181717?style=flat-square&logo=github)](https://github.com/gagang135)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=netlify&logoColor=white)](https://gagangportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gagangiri463@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gagangiri463)
 
-Computer Science Engineering student deep in **Java Full Stack Development** training. I care about writing clean, structured code and understanding systems from the ground up — not just making things work, but understanding *why* they work.
-
-Currently building a solid foundation in backend architecture, relational databases, and web technologies, with the goal of developing real, scalable applications.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Core Languages**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-**Web Technologies**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-**Database & Connectivity**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=gagang135&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
 
 </div>
 
 ---
 
-## GitHub Stats
+## About Me
+
+I'm a **Software Developer Trainee** working in the IT industry, focused on Java Full Stack Development, frontend engineering and backend application development.
+
+My primary frontend technology is **Angular**, with experience and interests spanning TypeScript, JavaScript, HTML and CSS. On the backend, I work with Java-based technologies, particularly Spring Boot, Hibernate and REST API development.
+
+I enjoy developing structured applications, integrating frontend interfaces with backend services, working with relational databases and exploring AI capabilities in modern software applications.
+
+### Professional Focus
+
+- **Frontend Engineering:** Angular, TypeScript, JavaScript and responsive web development.
+- **Backend Engineering:** Java, Spring Boot, Hibernate and REST APIs.
+- **Database Engineering:** MySQL, Oracle SQL and relational database management.
+- **AI Integration:** Large Language Models, RAG, embeddings and local AI models.
+- **Software Engineering:** Object-oriented programming, debugging and application architecture.
+
+---
+
+## Technical Skills
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gagang135&show_icons=true&theme=dark&bg_color=0d1117&border_color=2c5364&icon_color=a0c4ff&title_color=ffffff&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagang135&layout=compact&theme=dark&bg_color=0d1117&border_color=2c5364&title_color=ffffff&text_color=c9d1d9&hide_border=false&langs_count=8" height="165"/>
+### 01 / Programming Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,c&theme=dark&perline=8"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gagang135&theme=dark&background=0d1117&border=2c5364&stroke=2c5364&ring=a0c4ff&fire=a0c4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a0c4ff&sideLabels=c9d1d9&dates=6e7681" width="70%"/>
-</div>
+### 02 / Frontend Development
 
-<br/>
+<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,js,react&theme=dark&perline=8"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gagang135&theme=react-dark&bg_color=0d1117&color=a0c4ff&line=2c5364&point=ffffff&area=true&area_color=203a43&hide_border=false" width="95%"/>
+### 03 / Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark&perline=8"/>
+
+### 04 / Database Technologies
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark&perline=8"/>
+
+### 05 / Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,postman&theme=dark&perline=8"/>
+
 </div>
 
 ---
 
-## Currently Learning
+## Technology Expertise
 
-```
-Java Full Stack Roadmap
-│
-├── Core Java
-│   ├── OOP Concepts
-│   ├── Collections Framework
-│   ├── Exception Handling
-│   └── Multithreading (upcoming)
-│
-├── Web Technologies
-│   ├── HTML5 — structure
-│   ├── CSS3 — styling & layout
-│   └── JavaScript — interactivity
-│
-├── Database
-│   ├── SQL & Relational Design
-│   ├── MySQL
-│   └── JDBC — Java to DB bridge
-│
-└── Next Up
-    ├── Spring Boot
-    ├── REST APIs
-    └── Hibernate / JPA
-```
-
----
-
-## Areas of Interest
-
-| Domain | What Excites Me |
+| Category | Technologies |
 |---|---|
-| Backend Development | Building the logic that powers applications |
-| Database Design | Structuring data relationships efficiently |
-| Full Stack Apps | Connecting frontend and backend end-to-end |
+| Programming Languages | Java, TypeScript, JavaScript, Python, C |
+| Primary Frontend Framework | **Angular** |
+| Frontend Technologies | TypeScript, JavaScript, HTML5, CSS3 |
+| Additional Frontend Framework | React |
+| Backend Frameworks | Spring Boot, Spring Data JPA, Hibernate |
+| Java Technologies | Core Java, JDBC |
+| API Development | REST API Development and Integration |
+| Databases | MySQL, Oracle SQL, H2 |
+| Development Tools | Git, GitHub, IntelliJ IDEA, Eclipse, VS Code, Postman |
+| AI Integration | Ollama, LLM Integration, Spring AI exploration |
+| AI Concepts | RAG, Embeddings, Vector Search |
 
 ---
 
-## Let's Collaborate
-
-Open to:
-- Java and database-focused projects
-- Learning-oriented and academic projects
-- Beginner-friendly open source contributions
-
----
-
-## Connect
+## Engineering Specializations
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-gagangiri463%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagangiri463@gmail.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%40i_m_._gagan_vaishnava-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_m_._gagan_vaishnava/)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-gagangiri463-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gagangiri463) 
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Gagan%20G-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://gagangportfolio.netlify.app/)
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/web.png" width="52"/>
+
+### Frontend Engineering
+
+**Angular**
+
+<sub>TypeScript · JavaScript · HTML5 · CSS3 · Component-Based Development</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/server.png" width="52"/>
+
+### Backend Engineering
+
+**Java**
+
+<sub>Spring Boot · Hibernate · JDBC · REST APIs</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/database.png" width="52"/>
+
+### Database Engineering
+
+**SQL**
+
+<sub>MySQL · Oracle · Relational Database Design</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
+### AI & Intelligent Application Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Ollama-101010?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+</div>
 
 ---
 
+## Full Stack Development Architecture
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+**MY PRIMARY DEVELOPMENT ECOSYSTEM**
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="42%">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css&theme=dark" />
+
+**Angular Development**
+
+<sub>Components · Services · Routing · TypeScript</sub>
+
+</td>
+<td align="center" width="16%" valign="middle">
+
+### ⇄
+
+**REST APIs**
+
+</td>
+<td align="center" width="42%">
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate&theme=dark" />
+
+**Java Development**
+
+<sub>Spring Boot · JPA · Hibernate · Business Logic</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### DATABASE LAYER
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark" />
+
+**MySQL · Oracle SQL · Relational Database Management**
+
+<br/>
+
+<sub>Angular → REST API → Spring Boot → JPA / Hibernate → Database</sub>
+
+</div>
+
+---
+
+## Current Technical Focus
+
+| Area | Focus |
+|---|---|
+| Angular | TypeScript, components, services and frontend architecture |
+| Java | Core Java, OOP and problem solving |
+| Spring Boot | Backend development and REST API architecture |
+| Hibernate / JPA | ORM and database integration |
+| Database Engineering | SQL, relational design and query optimization |
+| System Design | Application architecture and scalability |
+| AI Integration | LLMs, RAG, embeddings and local model integration |
+
+---
+
+## GitHub Profile
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gagang135)
+
+**Explore my repositories, contributions and development activity.**
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+I'm interested in software engineering opportunities, technical collaboration, full-stack development and building practical software solutions.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagangiri463@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=netlify&logoColor=white)](https://gagangportfolio.netlify.app/)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gagangiri463)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_m_._gagan_vaishnava/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:142B50,100:0B132B&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+**GAGAN G. | SOFTWARE DEVELOPMENT**
+
 </div>
